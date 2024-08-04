@@ -1,16 +1,22 @@
-# hanzo_challenge
+# Hanzo Challenge
 
-A new Flutter project.
+Desafio proposto pela Hanzo.
 
-## Getting Started
+## Pré-visualização
 
-This project is a starting point for a Flutter application.
+Onboarding | Home 
+------------- | -------------
+![](https://github.com/LuanMaia1234/hanzo_challenge/blob/main/assets/preview/onboarding.PNG) | ![](https://github.com/LuanMaia1234/hanzo_challenge/blob/main/assets/preview/home.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+Cadastro | Login 
+------------- | -------------
+![](https://github.com/LuanMaia1234/hanzo_challenge/blob/main/assets/preview/sign_up.PNG) | ![](https://github.com/LuanMaia1234/hanzo_challenge/blob/main/assets/preview/sign_in.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Como executar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para executar este aplicativo, você precisará ter o Android Studio ou o Visual Studio Code instalado. Siga estas etapas para começar:
+
+- Clone este repositório: git clone https://github.com/LuanMaia1234/hanzo_challenge.git
+- Abra o projeto no Android Studio ou no Visual Studio Code.
+- Execute "flutter pub get" no terminal.
+- Inicie o aplicativo.
