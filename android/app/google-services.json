@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173277149059",
+    "project_id": "hanzo-challenge",
+    "storage_bucket": "hanzo-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173277149059:android:0789d1a8745816f4ff68b6",
+        "android_client_info": {
+          "package_name": "com.example.hanzo_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSaufQAKgf2KDG3aJH91p1JPFUJY5-lPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
